@@ -43,8 +43,8 @@ function applyLanguage(lang) {
 
   // Update page title
   document.title = lang === 'en'
-    ? 'Zumba with Yesi | Dance. Sweat. Transform.'
-    : 'Zumba con Yesi | Baila. Suda. Transfórmate.';
+    ? 'Zumba with Rocio | Dance. Sweat. Transform.'
+    : 'Zumba con Rocio | Baila. Suda. Transfórmate.';
 }
 
 function toggleLanguage() {

@@ -1,4 +1,4 @@
-# Zumba with Yesi 💃
+# Zumba with Rocio 💃
 
 Professional bilingual Zumba instructor website — static site ready for GitHub Pages.
 
@@ -27,9 +27,9 @@ Open `index.html` directly in a browser — no build step needed.
 ## Customization
 | Item | Where |
 |------|-------|
-| Instructor name | `index.html` — search `Yesi` |
+| Instructor name | `index.html` — search `Rocio` |
 | Phone number | `index.html` — search `208-550-2397` |
-| Email | `index.html` — search `yesi@zumbawithyesi.com` |
+| Email | `index.html` — search `rocio@zumbawithrocio.com` |
 | Location | `index.html` — search `Boise, Idaho` |
 | Colors | `css/styles.css` — `:root` variables |
 | Forms backend | `js/main.js` — replace `setTimeout` mock with Formspree/Netlify |
